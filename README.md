@@ -1,3 +1,6 @@
+#About 
+Search wikipedia contents and translate text application, using Google translator API and Wikipedia API.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
